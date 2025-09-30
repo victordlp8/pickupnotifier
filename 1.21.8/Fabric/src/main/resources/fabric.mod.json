@@ -36,10 +36,10 @@
   ],
 
   "depends": {
-    "fabricloader": ">=${minFabricVersion}",
-    "fabric-api": ">=${minFabricApiVersion}",
-    "puzzleslib": ">=${minPuzzlesVersion}",
-    "minecraft": "${minecraftVersion}",
+    "fabricloader": ">=0.17.0",
+    "fabric-api": ">=0.128.2",
+    "puzzleslib": ">=21.6.6",
+    "minecraft": ">=1.21.6",
     "java": ">=17"
   }
 }

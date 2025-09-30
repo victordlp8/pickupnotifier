@@ -1,4 +1,4 @@
-apply from: "https://raw.githubusercontent.com/Fuzss/modresources/main/gradle/${libs.versions.minecraft.get()}/common.gradle"
+apply from: "https://raw.githubusercontent.com/Fuzss/modresources/main/gradle/1.21.8/common.gradle"
 
 dependencies {
     // Puzzles Lib

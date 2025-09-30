@@ -1,4 +1,4 @@
-apply from: "https://raw.githubusercontent.com/Fuzss/modresources/main/gradle/${libs.versions.minecraft.get()}/neoforge.gradle"
+apply from: "https://raw.githubusercontent.com/Fuzss/modresources/main/gradle/1.21.8/neoforge.gradle"
 
 dependencies {
     // Puzzles Lib
